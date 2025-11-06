@@ -1,1 +1,1 @@
-FROM qingpan/rnacos:v0.7.2-alpine
+FROM qingpan/rnacos:v0.7.3-alpine
